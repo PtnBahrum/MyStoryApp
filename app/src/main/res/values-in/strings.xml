@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">MyUserStory</string>
+
+    <string name="invalid_email">Email tidak valid</string>
+    <string name="email_hint">Masukkan email...</string>
+    <string name="too_short">Password terlalu pendek</string>
+    <string name="must_fill">Berkas harus diisi</string>
+    <string name="logo_description">Logo Aplikasi</string>
+    <string name="tagline_description">Tagline Aplikasi</string>
+    <string name="login">Masuk</string>
+    <string name="logout">Keluar</string>
+    <string name="register">Daftar</string>
+    <string name="guest">Sebagai Tamu</string>
+    <string name="message_login_page">Tolong masukkan data terlebih dahulu!</string>
+    <string name="login_success_message">Berhasil masuk</string>
+    <string name="login_failed_message">Gagal masuk, Silahkan coba kembali!</string>
+    <string name="register_success_message">Berhasil mendaftar</string>
+    <string name="register_failed_message">Gagal mendaftar, Silahkan coba kembali!</string>
+    <string name="alert_message">Apakah kamu serius?</string>
+    <string name="post_success_message">Berhasil mengunggah cerita</string>
+    <string name="post_failed_message">Gagal mengunggah cerita, Silahkan coba kembali!</string>
+    <string name="null_photo_message">Anda harus mengunggah foto</string>
+    <string name="yes">Iya</string>
+    <string name="no">Tidak</string>
+    <string name="welcome">Selamat datang, </string>
+    <string name="not_account">---------------Kamu belum memiliki akun?---------------</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="email">Email</string>
+    <string name="password">Kata Sandi</string>
+    <string name="name">Nama</string>
+    <string name="username">Username</string>
+    <string name="avatar_user">Avatar User</string>
+    <string name="description_story">Deskripsi cerita</string>
+    <string name="home">Beranda</string>
+    <string name="not_login_message">Anda belum masuk, jadi kamu tidak dapat mengunggah cerita.</string>
+    <string name="setting">Pengaturan</string>
+    <string name="photo_story">Gambar cerita</string>
+    <string name="description_story_hint">Apa yang sedang kamu pikirkan?</string>
+    <string name="post">Posting</string>
+    <string name="create_post">Buat Postingan</string>
+    <string name="upload_image_from_gallery">Unggah gambar dari galeri</string>
+    <string name="take_a_photo">Ambil foto</string>
+    <string name="retry">Coba Lagi</string>
+    <string name="timeout">Waktu Habis</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="user">User</string>
+    <string name="permisssion_is_no_granted">Maaf, izin tidak diberikan</string>
+    <string name="gps_permission">Mohon aktifkan izin lokasi Anda</string>
+</resources>
